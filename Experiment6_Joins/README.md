@@ -1,5 +1,5 @@
 # Experiment 6: Joins
-## Name:Pochi Reddy.P
+## Name:POCHI REDDY.P
 ## Reg.no:212223240115
 
 ## AIM
@@ -252,9 +252,6 @@ where
 *Output:*
 
 ![image](https://github.com/user-attachments/assets/07a2ffd7-0a07-4e25-bd69-c8b9fe5563f7)
-
-## RESULT
-Thus, the SQL queries to implement different types of joins have been executed successfully.
 
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
